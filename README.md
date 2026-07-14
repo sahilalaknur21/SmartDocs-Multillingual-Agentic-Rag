@@ -18,7 +18,7 @@
 
 <br>
 
-**SmartDocs achieved 95%+ Hindi Faithfulness — 0.9069 cross-language Hindi/English cosine similarity.**
+**SmartDocs achieved 95%+ Hindi Faithfulness.**
 
 ---
 
