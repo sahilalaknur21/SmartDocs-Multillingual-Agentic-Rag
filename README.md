@@ -59,7 +59,7 @@ Measured RAGAS results on a 60-pair multilingual test set (30 Hindi + 30 English
 
 | Metric | Result | Deployment Gate |
 |:---|:---:|:---:|
-| Hindi Faithfulness | **97%+** | < 85% → BLOCK |
+| Hindi Faithfulness | **95%+** | < 85% → BLOCK |
 | English Faithfulness | **90%+** | < 90% → BLOCK |
 | Hindi / English Faithfulness Ratio | **0.97** | < 0.97 → BLOCK |
 | Language Accuracy (Hindi ↔ English) | **95%+** | < 92% → BLOCK |
